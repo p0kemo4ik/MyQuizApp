@@ -6,7 +6,7 @@
 ### AngularProject
 запуск:
 ```
-ng server
+ng serve
 ```
 или Docker
 ```
